@@ -38,6 +38,7 @@ const Table = () => {
         width: "500px",
         margin: "0 auto",
         fontSize: "14px",
+        margintop: "20px",
       },
     },
     rows: {
